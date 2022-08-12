@@ -1,6 +1,6 @@
 menu:
 - #{name: 'people', url: '/people'}
-- {name: 'about', url: 'anannabiswas.github.io'}
+- {name: 'about', url: ''}
 - {name: 'publications', url: '/publications'}
 - {name: 'projects', url: '/people'}
 - {name: 'courses', url: '/courses'}
