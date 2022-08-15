@@ -1,5 +1,5 @@
 ---
 layout: cv
-title: "CV"
+title: "CV  <a href="https://github.com/Anannabiswas/anannabiswas.github.io/blob/main/assets/cv/Ananna_CV.pdf">pdf</a>"
 ---
-kindly download the pdf file from here  {url: 'assests/cv/Ananna_CV.pdf'}
+
