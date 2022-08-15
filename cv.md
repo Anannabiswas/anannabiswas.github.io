@@ -2,4 +2,4 @@
 layout: cv
 title: "CV"
 ---
-[pdf](assets/cv/Ananna_CV.pdf)
+<div style="text-align: right">[pdf](assets/cv/Ananna_CV.pdf) </div>
