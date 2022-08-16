@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: "CV"
+title: "cv"
 ---
 
-# [pdf](assets/cv/Ananna_CV.pdf)
+### [pdf](assets/cv/Ananna_CV.pdf)
 
