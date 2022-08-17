@@ -4,9 +4,10 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'projects', url: '/people'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'cv', url: '/assets/cv/Ananna_CV.pdf'}
 - {name: 'contact', url: '/contact'}
-- 
+
+
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
