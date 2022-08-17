@@ -4,7 +4,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'projects', url: '/people'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/assets/cv/Ananna_CV.pdf'}
+- {name: 'cv', url: '/assets/cv/Ananna_CV.pdf' target="_blank"}
 - {name: 'contact', url: '/contact'}
 
 
