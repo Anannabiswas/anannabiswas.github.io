@@ -6,10 +6,7 @@ menu:
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
-- 
 
-cv:
-- { link: 'https://anannabiswas.github.io/assets/cv/Ananna_CV.pdf'}
 
 
 people:
