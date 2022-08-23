@@ -5,7 +5,7 @@ menu:
 - {name: 'projects', url: '/people'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/assets/cv/Ananna_CV.pdf'}
-- {name: 'contact', url: '/contact'}
+- {name: 'blog', url: '/blog'}
 
 
 
@@ -20,10 +20,11 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
+- {icon: 'email', link: 'ananna314.bd@gmail.com'}
 - {icon: 'github', link: 'https://github.com/Anannabiswas'}
 - {icon: 'twitter', link: 'https://twitter.com/anannabiswas_bd'}
 - {icon: 'instagram', link: 'https://instagram.com/tinky_1415'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/ananna0pi/'}
 
-contacts:
+blog:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
