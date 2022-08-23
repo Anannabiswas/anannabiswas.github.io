@@ -20,7 +20,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'email', link: 'mailto:ananna314.bd@gmail.com'}
+- {icon: 'gmail', link: 'mailto:ananna314.bd@gmail.com'}
 - {icon: 'github', link: 'https://github.com/Anannabiswas'}
 - {icon: 'twitter', link: 'https://twitter.com/anannabiswas_bd'}
 - {icon: 'instagram', link: 'https://instagram.com/tinky_1415'}
