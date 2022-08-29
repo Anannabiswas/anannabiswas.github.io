@@ -1,19 +1,7 @@
 ---
 layout: home
 title: "Home"
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: /assets/img/ananna_1.jpeg
-  image_cicular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-social: true  # includes social icons at the bottom of the page
 ---
 
  Hello, I am Ananna, received a B.Sc. degree in ECE (Electronics and Communication Engineering) from Khulna University of Engineering and Technology (KUET), Khulna,
