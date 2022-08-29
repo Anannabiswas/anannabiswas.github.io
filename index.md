@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-<p align="center">
+
  Hello, I am Ananna, received a B.Sc. degree in ECE (Electronics and Communication Engineering) from Khulna University of Engineering and Technology (KUET), Khulna,
  Bangladesh in 2019. At present, I am looking for a Ph.D. opportunity in the following research domain: computational neuroscience, signal processing, BCI, machine(deep)
  learning, and computer vision.
@@ -16,5 +16,5 @@ title: "Home"
  Before working on this neuromarketing project, I hold a position as a Research Assistant in an AI-based software company, named Brainekt and conducted research on
  breast-cancer image classification,  ECG signal analysis, and monitoring wheelchair patients using EEG signals. Moreover, during my undergraduate period, I was a Fablab
  Operator at KUET.
- </p>
+ 
  
