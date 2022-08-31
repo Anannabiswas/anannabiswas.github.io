@@ -16,13 +16,13 @@ title: "Home"
  Prior to this, I hold a position as a Research Assistant in an AI-based software company, named Brainekt and conducted research on breast-cancer image classification, 
  ECG signal analysis, and monitoring wheelchair patients using EEG signals. 
  
- <b>Research Interest and Hobbies: <\b>
+ <h5>Research Interest and Hobbies: <\h5>
   
- Statistics:Descriptive Analysis, Pearson Correlation <\br>
- Machine Learning:Supervised Learning, Semi-supervised Learning, Unsupervised learning, Reinforcement Learning, SVM,CNN, RNN, GRU, LSTM </br>
- Signal Processing: EEG, ECG, PCA, ICA</br>
- Computational Neuroscience: Dynamical Systems, Stochastic Process,Computatinal modelling </br>
- Computer Vision: biomedical image processing </br>
+ Statistics:Descriptive Analysis, Pearson Correlation <br>
+ Machine Learning:Supervised Learning, Semi-supervised Learning, Unsupervised learning, Reinforcement Learning, SVM,CNN, RNN, GRU, LSTM <br>
+ Signal Processing: EEG, ECG, PCA, ICA<br>
+ Computational Neuroscience: Dynamical Systems, Stochastic Process,Computatinal modelling <br>
+ Computer Vision: biomedical image processing <br>
    
  
  Apart from doing and thinking about research, I spend a lot of my free time with my diary, books (mostly non-fiction), my indoor plants and Rubik's cube(classic 3X3).
