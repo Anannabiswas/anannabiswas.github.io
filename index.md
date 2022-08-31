@@ -16,7 +16,7 @@ title: "Home"
  Prior to this, I hold a position as a Research Assistant in an AI-based software company, named Brainekt and conducted research on breast-cancer image classification, 
  ECG signal analysis, and monitoring wheelchair patients using EEG signals. 
  
- <h5>Research Interest and Hobbies: </h5>
+ <h3>Research Interest and Hobbies: </h3>
   
  <p> 
  Statistics:Descriptive Analysis, Pearson Correlation <br>
