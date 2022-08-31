@@ -16,8 +16,9 @@ title: "Home"
  Prior to this, I hold a position as a Research Assistant in an AI-based software company, named Brainekt and conducted research on breast-cancer image classification, 
  ECG signal analysis, and monitoring wheelchair patients using EEG signals. 
  
- <h5>Research Interest and Hobbies: <\h5>
+ <h5>Research Interest and Hobbies: </h5>
   
+ <p> 
  Statistics:Descriptive Analysis, Pearson Correlation <br>
  Machine Learning:Supervised Learning, Semi-supervised Learning, Unsupervised learning, Reinforcement Learning, SVM,CNN, RNN, GRU, LSTM <br>
  Signal Processing: EEG, ECG, PCA, ICA<br>
@@ -29,3 +30,4 @@ title: "Home"
  I love to draw and listen classical music. I like to learn new instruments. At present, I am learning to play flute. Above all, I am a homesick person though I enjoy
  outing and travelling with my close friends and family members. 
  
+</p>
