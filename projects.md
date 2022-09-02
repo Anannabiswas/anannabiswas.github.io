@@ -11,13 +11,15 @@ Make your photos 1/3, 2/3, or full width.
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
-    layout: page
+    layout: defult
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/ananna_1.jpeg
     ---
 
 <div class="row gx-5 mb-5">
+   <h3 class="fw-bold">Project: Deepmice</h3>
+        <h5> Activity in V1 predicts spontaneous running behaviour in the absence of visual stimuli in mice </h5>
     <div class="col-sm mt-3 mt-md-0">
        <img src="{{ site.github.url }}/assets/img/ananna_1.jpeg" width="250" height="310" class="img-fluid rounded z-depth-1">
      
