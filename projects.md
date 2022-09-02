@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: default
 title: "Projects"
 ---
 
@@ -17,16 +17,16 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<div class="row">
+<div class="row gx-5 mb-5">
     <div class="col-sm mt-3 mt-md-0">
-       <img src="{{ site.github.url }}/assets/img/ananna_1.jpeg" class="img-fluid rounded z-depth-1">
+       <img src="{{ site.github.url }}/assets/img/ananna_1.jpeg" width="250" height="310" class="img-fluid rounded z-depth-1">
      
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img src="{{ site.github.url }}/assets/img/ananna_1.jpeg" class="img-fluid rounded z-depth-1"> 
+        <img src="{{ site.github.url }}/assets/img/ananna_1.jpeg" width="250" height="310" class="img-fluid rounded z-depth-1"> 
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img src="{{ site.github.url }}/assets/img/ananna_1.jpeg" class="img-fluid rounded z-depth-1">
+        <img src="{{ site.github.url }}/assets/img/ananna_1.jpeg" width="250" height="310" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
