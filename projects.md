@@ -77,7 +77,8 @@ title: "Projects"
          those with the attention metrics (gaze points, fixation, heatmaps, and AOI)extracing from eye trackers. In the data processing phase, the raw EEG signal
          were preprocessed for noise removal. Generally, eye artifacts, line noise, and movement artifacts are found in the EEG signals.For removing these types of
          noises, we have used bandpass filter, notch filter, and Independent Component Analysis (ICA). Then, we extracted the time domain, frequency domain, and time- 
-         frequency domain features (Wavelet-packet transform). To select the best feature set, wrapper-based Support Vector Machine-Recursive Feature Elimination (SVM-          RFE) along with correlation bias reduction (CBR) has been used. In the last phase, we used LIBSVM to classify the customer’s choice. For selecting the 
+         frequency domain features (Wavelet-packet transform). To select the best feature set, wrapper-based Support Vector Machine-Recursive Feature Elimination (SVM
+         RFE) along with correlation bias reduction (CBR) has been used. In the last phase, we used LIBSVM to classify the customer’s choice. For selecting the
          appropriate classification model, the labels given by the participants have been taken as ground truth.
       <p>
          Supervisor:Khondaker A. Mamun, Khandoker Mahmudur Rahman, Mohammad Tohidul Islam Miya<br>
