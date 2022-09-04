@@ -85,5 +85,4 @@ title: "Projects"
          Team Members: <b>Ananna Biswas </b>, Fazla Rabbi Mashrur
       </p> 
     
-     </div>
-   </div>
+    
