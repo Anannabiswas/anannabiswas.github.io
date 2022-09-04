@@ -50,7 +50,7 @@ title: "Projects"
 
 
 
-<div class="row gx-5 mb-5">
+<div class="row row justify-content-sm-center">
    
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: MarketBrain</h3>
            <h5> A Neuromarketing System for Advanced Marketinf Research </h5>
