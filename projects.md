@@ -48,7 +48,7 @@ title: "Projects"
 
 
 
-<div class="row row justify-content-sm-center">
+<div class="row justify-content-md-center">
    
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: MarketBrain</h3>
            <h5> A Neuromarketing System for Advanced Marketinf Research </h5>
