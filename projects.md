@@ -3,8 +3,6 @@ layout: default
 title: "Projects"
 ---
 
-
-
 <div class="row gx-5 mb-5">
    
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: Deepmice</h3>
@@ -26,7 +24,7 @@ title: "Projects"
     <div class="col-sm mt-3 mt-md-0">
         <img src="{{ site.github.url }}/assets/img/corr.png" width="250" height="310" class="img-fluid rounded z-depth-1">
     </div>
-   <div>
+    <div>
        <p>
          Fig1: Predicting running speed from visual cortex (V1) &nbsp; &nbsp; Fig2: 9 layers of neurons  &nbsp; &nbsp; Fig3: Correlation between 9 layers and running
          speed.
@@ -44,7 +42,48 @@ title: "Projects"
          Mentors: Dr Mari Sosa, Dr Kiah Hardcastle, Rei Masuda, Deepika Gupta  <br>
          Team Members:Cristian Lazo Quispe, <b>Ananna Biswas </b> , Bhavika Gopalini, Rouhong Wang, Asutosh Routa, Abraham George, Jongwon Yun
       </p> 
-   </div>
+    </div>
    
 </div>
 
+
+
+<div class="row row justify-content-sm-center">
+   
+   <h3 class="fw-bold border-bottom pb-3 mb-5">Project: MarketBrain</h3>
+           <h5> A Neuromarketing System for Advanced Marketinf Research </h5>
+   
+        <p>  
+           <b>Aim: </b> Our objective was to predict and analyze consumer cognitive and emotional response to the marketing stimuli through a Brain Computer Interface 
+           (BCI) based marketing research method using Electroencephalography (EEG) signals and eye tracking data signals. 
+        </p>   
+   
+    <div class="col-sm mt-3 mt-md-0">
+       <img src="{{ site.github.url }}/assets/img/pipeline.png" width="500" height="310" class="img-fluid rounded z-depth-1">
+     
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img src="{{ site.github.url }}/assets/img/emotiv.jpeg" width="250" height="310" class="img-fluid rounded z-depth-1"> 
+    </div>
+    
+    <div>
+       <p>
+         Fig1: An EEG and eye tracker based consumer choice prediction system &nbsp; &nbsp; Fig2: Emotiv Epoc+ (14 channels)
+      </p>  
+      <p>
+         <b>Method and Results:</b> For developing a prediction system, we have used an EEG device and a eye tracker for extracting the brain signals and attention
+         metrics from the customers respectively. Then, some static stimuli (marketing advertisements) have been presented infront of the subject. After the 
+         experiment, we gave the participants a survey form to fill up labeling those stimuli as liked or disliked items, interested to purchase or not, and compared
+         those with the attention metrics (gaze points, fixation, heatmaps, and AOI)extracing from eye trackers. In the data processing phase, the raw EEG signal
+         were preprocessed for noise removal. Generally, eye artifacts, line noise, and movement artifacts are found in the EEG signals.For removing these types of
+         noises, we have used bandpass filter, notch filter, and Independent Component Analysis (ICA). Then, we extracted the time domain, frequency domain, and time- 
+         frequency domain features (Wavelet-packet transform). To select the best feature set, wrapper-based Support Vector Machine-Recursive Feature Elimination (SVM
+         RFE) along with correlation bias reduction (CBR) has been used. In the last phase, we used LIBSVM to classify the customer’s choice. For selecting the
+         appropriate classification model, the labels given by the participants have been taken as ground truth.
+      <p>
+         Supervisor:Khondaker A. Mamun, Khandoker Mahmudur Rahman, Mohammad Tohidul Islam Miya<br>
+         Team Members: <b>Ananna Biswas </b>, Fazla Rabbi Mashrur
+      </p> 
+    
+     </div>
+   </div>
