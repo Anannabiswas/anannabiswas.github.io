@@ -9,8 +9,9 @@ title: "Projects"
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: Deepmice</h3>
         <h5> Activity in V1 predicts spontaneous running behaviour in the absence of visual stimuli in mice </h5>
       <p>
-          Goal: Our aim was to predict mice spontaneous behavior (e.g. running speed)based on the activity of the visual cortex and find out the relation between neurons
-          of each layer and running speed. 
+          
+         **Goal:** Our aim was to predict mice spontaneous behavior (e.g. running speed)based on the activity of the visual cortex and find out the
+          relation between neurons of each layer and running speed. 
       </p>   
 
     <div class="col-sm mt-3 mt-md-0">
@@ -28,14 +29,19 @@ title: "Projects"
        speed.
    </div>
    <div>  
-      Method and Results: To understand the relation between mouse visual cortex and running behavior (when mice are not receiving visual inputs), we utilized the
-      Stringer data set, which consists of calcium imaging neural activity data of neurons in mouse primary visual cortex, as well as running speed when the mouse is
-      kept in darkness. Principle Component Analysis (PCA) was applied to reduce the dimension of our neuron activity data of 11983 excitatory neurons into 2000
-      principal components that contain 88.82% of the cumulative explained variance. Following this, we modeled the relationship between neural activity data and
-      running speed data using a linear regression model and were able to achieve an RMSE of 1.86 and 4.21 cm/s on the training and testing dataset respectively.in
-      Furthermore, we applied pearson correlation for determine the relationship of running speed with specific layer of neurons and found out that there is higher
-      correlation between 6th layer and running behavior. 
-
+      <p>
+        **Method and Results:** To understand the relation between mouse visual cortex and running behavior (when mice are not receiving visual inputs), we utilized
+        the Stringer data set, which consists of calcium imaging neural activity data of neurons in mouse primary visual cortex, as well as running speed when the
+        mouse is kept in darkness. Principle Component Analysis (PCA) was applied to reduce the dimension of our neuron activity data of 11983 excitatory neurons into
+        2000 principal components that contain 88.82% of the cumulative explained variance. Following this, we modeled the relationship between neural activity data
+        and running speed data using a linear regression model and were able to achieve an RMSE of 1.86 and 4.21 cm/s on the training and testing dataset respectivly. 
+        Furthermore, we applied pearson correlation for determine the relationship of running speed with specific layer of neurons and found out that there is higher
+        correlation between 6th layer and running behavior. 
+      </p>
+      <p>
+         Mentors: Dr Mari Sosa, Dr Kiah Hardcastle, Rei Masuda, Deepika Gupta
+         Team Members:Cristian Lazo Quispe, **Ananna Biswas** , Bhavika Gopalini, Rouhong Wang, Asutosh Routa, Abraham George, Jongwon Yun
+      </p> 
    </div>
 </div>
 
