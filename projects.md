@@ -8,9 +8,8 @@ title: "Projects"
 <div class="row gx-5 mb-5">
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: Deepmice</h3>
         <h5> Activity in V1 predicts spontaneous running behaviour in the absence of visual stimuli in mice </h5>
-      <p>
-          
-         **Goal:** Our aim was to predict mice spontaneous behavior (e.g. running speed)based on the activity of the visual cortex and find out the
+      <p> 
+          ***Goal:*** Our aim was to predict mice spontaneous behavior (e.g. running speed)based on the activity of the visual cortex and find out the
           relation between neurons of each layer and running speed. 
       </p>   
 
