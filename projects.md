@@ -3,8 +3,6 @@ layout: default
 title: "Projects"
 ---
 
-
-
 <div class="row gx-5 mb-5">
    
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: Deepmice</h3>
@@ -26,7 +24,7 @@ title: "Projects"
     <div class="col-sm mt-3 mt-md-0">
         <img src="{{ site.github.url }}/assets/img/corr.png" width="250" height="310" class="img-fluid rounded z-depth-1">
     </div>
-   <div>
+    <div>
        <p>
          Fig1: Predicting running speed from visual cortex (V1) &nbsp; &nbsp; Fig2: 9 layers of neurons  &nbsp; &nbsp; Fig3: Correlation between 9 layers and running
          speed.
@@ -44,7 +42,7 @@ title: "Projects"
          Mentors: Dr Mari Sosa, Dr Kiah Hardcastle, Rei Masuda, Deepika Gupta  <br>
          Team Members:Cristian Lazo Quispe, <b>Ananna Biswas </b> , Bhavika Gopalini, Rouhong Wang, Asutosh Routa, Abraham George, Jongwon Yun
       </p> 
-   </div>
+    </div>
    
 </div>
 
@@ -68,7 +66,7 @@ title: "Projects"
         <img src="{{ site.github.url }}/assets/img/emotiv.jpeg" width="250" height="310" class="img-fluid rounded z-depth-1"> 
     </div>
     
-   <div>
+    <div>
        <p>
          Fig1: An EEG and eye tracker based consumer choice prediction system &nbsp; &nbsp; Fig2: Emotiv Epoc+ (14 channels)
       </p>  
@@ -85,8 +83,6 @@ title: "Projects"
          Supervisor:Khondaker A. Mamun, Khandoker Mahmudur Rahman, Mohammad Tohidul Islam Miya<br>
          Team Members: <b>Ananna Biswas </b>, Fazla Rabbi Mashrur
       </p> 
-   </div>
-   
+    </div>
+    
 </div>
-
-
