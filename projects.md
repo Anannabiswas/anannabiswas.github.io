@@ -6,12 +6,15 @@ title: "Projects"
 
 
 <div class="row gx-5 mb-5">
+   
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: Deepmice</h3>
         
            <h5> Activity in V1 predicts spontaneous running behaviour in the absence of visual stimuli in mice </h5>
-        <p> 
-          Goal: Our aim was to predict mice spontaneous behavior (e.g. running speed)based on the activity of the visual cortex and find out the
-          relation between neurons of each layer and running speed. 
+   
+        <p>  
+           <b>Goal: </b> Our aim was to predict mice spontaneous behavior (e.g. running speed)based on the activity of the visual cortex and find out the
+           relation between neurons of each layer and running speed.
+           
         </p>   
    
     <div class="col-sm mt-3 mt-md-0">
@@ -42,6 +45,8 @@ title: "Projects"
          Mentors: Dr Mari Sosa, Dr Kiah Hardcastle, Rei Masuda, Deepika Gupta
          Team Members:Cristian Lazo Quispe, Ananna Biswas , Bhavika Gopalini, Rouhong Wang, Asutosh Routa, Abraham George, Jongwon Yun
       </p> 
+      
    </div>
+   
 </div>
 
