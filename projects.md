@@ -83,6 +83,4 @@ title: "Projects"
          Supervisor:Khondaker A. Mamun, Khandoker Mahmudur Rahman, Mohammad Tohidul Islam Miya<br>
          Team Members: <b>Ananna Biswas </b>, Fazla Rabbi Mashrur
       </p> 
-    </div>
     
-</div>
