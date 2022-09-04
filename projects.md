@@ -25,12 +25,11 @@ title: "Projects"
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img src="{{ site.github.url }}/assets/img/corr.png" width="250" height="310" class="img-fluid rounded z-depth-1">
-    </div>
-    <div class= "row pd-3">
+     <p>
+    
        Fig1: Predicting running speed from visual cortex (V1) &nbsp; &nbsp; Fig2: 9 layers of neurons  &nbsp; &nbsp; Fig3: Correlation between 9 layers and running
        speed.
-   </div>
-   <div>  
+    </p>  
       <p>
          <b>Method and Results: </b> To understand the relation between mouse visual cortex and running behavior (when mice are not receiving visual inputs), we 
          utilized the Stringer data set, which consists of calcium imaging neural activity data of neurons in mouse primary visual cortex, as well as running speed
@@ -41,7 +40,7 @@ title: "Projects"
          that there is higher correlation between 6th layer and running behavior. 
       </p>
       <p>
-         Mentors: Dr Mari Sosa, Dr Kiah Hardcastle, Rei Masuda, Deepika Gupta </br>
+         Mentors: Dr Mari Sosa, Dr Kiah Hardcastle, Rei Masuda, Deepika Gupta  <br>
          Team Members:Cristian Lazo Quispe, <b>Ananna Biswas </b> , Bhavika Gopalini, Rouhong Wang, Asutosh Routa, Abraham George, Jongwon Yun
       </p> 
       
