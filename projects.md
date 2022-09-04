@@ -59,7 +59,7 @@ title: "Projects"
         </p>   
    
     <div class="col-sm mt-3 mt-md-0">
-       <img src="{{ site.github.url }}/assets/img/pipeline.png" width="600" height="350" class="img-fluid rounded z-depth-1">
+       <img src="{{ site.github.url }}/assets/img/pipeline.png" width="900" height="650" class="img-fluid rounded z-depth-1">
      
     </div>
     <div class="col-sm mt-3 mt-md-0">
