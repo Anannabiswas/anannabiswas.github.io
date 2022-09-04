@@ -58,11 +58,11 @@ title: "Projects"
            (BCI) based marketing research method using Electroencephalography (EEG) signals and eye tracking data signals. 
         </p>   
    
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md mt-3 mt-md-0">
        <img src="{{ site.github.url }}/assets/img/pipeline.png" width="900" height="650" class="img-fluid rounded z-depth-1">
      
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-1">
         <img src="{{ site.github.url }}/assets/img/emotiv.jpeg" width="250" height="310" class="img-fluid rounded z-depth-1"> 
     </div>
     
