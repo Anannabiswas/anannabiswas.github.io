@@ -6,7 +6,7 @@ menu:
 - #{name: 'courses', url: '/courses'}
 - {name: 'Research & Hobbies', url: '/Research and Hobbies'}
 - {name: 'cv', url: '/assets/cv/Ananna_CV.pdf'}
-- #{name: 'blog', url: '/contact'}
+
 
 
 
