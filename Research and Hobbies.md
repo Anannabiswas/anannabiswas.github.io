@@ -3,7 +3,7 @@ layout: default
 ---
 
   <div class="row g-5 mb-5">
-  
+   <div class="col-md-12">
     <h4 class="fw-bold border-bottom pb-3 mb-5">Research Interest:</h4>
     <P><b>Statistics:</b> Descriptive Analysis, Pearson Correlation </p>
     <p><b> Machine Learning:</b> Supervised Learning, Semi-supervised Learning, Unsupervised learning, Reinforcement Learning, SVM,CNN, RNN, GRU, LSTM </p>
@@ -11,13 +11,15 @@ layout: default
     <p><b>Computational Neuroscience:</b> Dynamical Systems, Stochastic Process,Computatinal modelling </p>
     <p><b>Computer Vision:</b> Biomedical image processing </p>
   </div>
+  </div>
   
-  <div class="row g-5 mb-5">
+ <div class="row g-5 mb-5">
+   <div class="col-md-12">
    <h4 class="fw-bold border-bottom pb-3 mb-5">Hobbies:</h4>
    <p>
     I spend my leisure time through many different ways: writing diaries, reading books (mostly non-fiction), raising indoor plants and solving 
     rubik's cube(classic 3X3). I love to draw and listen classical music. I also try to learn different types of musical instruments. At present, I am learning to play
     the flute. I enjoy outing and travelling with my close friends and family members. 
  </p>
-   
+    </div>
 </div>
