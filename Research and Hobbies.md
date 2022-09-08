@@ -2,7 +2,7 @@
 layout: default
 ---
 
-  <div class="row g-5 mb-5">
+  <div class="row g-5 mb-3">
    <div class="col-md-12">
     <h4 class="fw-bold border-bottom pb-3 mb-5">Research Interest:</h4>
     <P><b>Statistics:</b> Descriptive Analysis, Pearson Correlation </p>
@@ -13,7 +13,7 @@ layout: default
   </div>
   </div>
   
- <div class="row g-5 mb-5">
+ <div class="row g-5 mb-3">
    <div class="col-md-12">
    <h4 class="fw-bold border-bottom pb-3 mb-5">Hobbies:</h4>
    <p>
