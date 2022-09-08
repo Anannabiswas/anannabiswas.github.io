@@ -4,8 +4,8 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'projects', url: '/projects'}
 - #{name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/assets/cv/Ananna_CV.pdf'}
 - {name: 'Research & Hobbies', url: '/Research and Hobbies'}
+- {name: 'cv', url: '/assets/cv/Ananna_CV.pdf'}
 - #{name: 'blog', url: '/contact'}
 
 
