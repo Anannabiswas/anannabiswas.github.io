@@ -32,7 +32,7 @@ title: "Research Interest"
    <p>
     I spend my leisure time through many different ways: writing diaries, reading books (mostly non-fiction), raising indoor plants and solving 
     rubik's cube(classic 3X3). I love to draw and listen classical music. I also try to learn different types of musical instruments. At present, I am learning to play
-    the flute. I enjoy outing and travelling with my close friends and family members. 
+    the flute. Above all, I enjoy myself when with my family members and close friends. 
  </p>
     </div>
 </div>
