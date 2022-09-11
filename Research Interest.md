@@ -10,7 +10,7 @@ title: "Research Interest"
     <p><b> Machine Learning:</b> Supervised Learning, Semi-supervised Learning, Unsupervised learning, Reinforcement Learning, SVM,CNN, RNN, GRU, LSTM </p>
     <p><b>Computational Neuroscience:</b> Dynamical Systems, Stochastic Process, Dimensionality Reduction </p>
     <p><b> Signal Processing:</b> EEG, ECG, PCA, ICA, FFT, WPT</p>
-    <p><b>Neural Engineering:</b> Neural Imaging, Neural Networks, Brain- Computer Interface (BCI) </p>
+    <p><b>Neural Engineering:</b> Neural Imaging, Neural Networks, Brain-Computer Interface (BCI) </p>
     <p><b>Computer Vision:</b> Biomedical image processing </p>
 
   </div>
