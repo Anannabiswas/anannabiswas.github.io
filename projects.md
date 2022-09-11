@@ -5,7 +5,7 @@ title: "Projects"
 
 <div class="row gx-5 mb-5">
    
-   <h3 class="fw-bold border-bottom pb-3 mb-5">Project: Deepmice</h3>
+   <h3 class="fw-bold border-bottom pb-3 mb-5">Project: DeepMice</h3>
            <h5> Activity in V1 predicts spontaneous running behaviour in the absence of visual stimuli in mice </h5>
    
         <p>  
