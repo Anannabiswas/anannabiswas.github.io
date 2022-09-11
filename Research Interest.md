@@ -21,7 +21,8 @@ title: "Research Interest"
     *	Introduction to Python (datacamp). <br>
     * Intermediate Python (datacamp). <br>
     * Neural Networks and Deep Learning by deeplearning.ai (Coursera). <br>
-    *	Improving Deep Neural Networks: Hyper parameter Tuning, Regularization and Optimization by deeplearning.ai (Coursera).<br>
+    *	Improving Deep Neural Networks: Hyper parameter Tuning, Regularization and Optimization by deeplearning.ai <br>
+     (Coursera).
     * Fight Against COVID-19 Pandemic Using Machine Learning 2020 by IEEE CS BDC.
   </p>
   </div>
