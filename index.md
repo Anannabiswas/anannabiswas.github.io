@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Ananna Biswas|About"
+title: "Ananna Biswas"
 
 ---
 
