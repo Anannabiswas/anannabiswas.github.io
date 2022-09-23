@@ -1,11 +1,11 @@
 menu:
 - #{name: 'people', url: '/people'}
-- {name: 'about', url: ''}
-- {name: 'publications', url: '/publications'}
-- {name: 'projects', url: '/projects'}
+- {name: 'About', url: ''}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Projects', url: '/projects'}
 - #{name: 'courses', url: '/courses'}
 - {name: 'Research Interest', url: '/Research Interest'}
-- {name: 'cv', url: '/assets/cv/Ananna_CV.pdf'}
+- {name: 'CV', url: '/assets/cv/Ananna_CV.pdf'}
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Research Interest"
+title: "Ananna Biswas"
 ---
 
   <div class="row g-5 mb-3">
@@ -11,7 +11,7 @@ title: "Research Interest"
     <p><b>Computational Neuroscience:</b> Dynamical Systems, Stochastic Process, Dimensionality Reduction </p>
     <p><b> Signal Processing:</b> EEG, ECG, PCA, ICA, FFT, WPT</p>
     <p><b>Neural Engineering:</b> Neural Imaging, Neural Networks, Brain-Computer Interface (BCI) </p>
-    <p><b>Computer Vision:</b> Biomedical image processing </p>
+    <p><b>Computer Vision:</b> Biomedical Image processing </p>
 
   </div>
    <p><b>Related Course:</b> <br>
@@ -21,7 +21,8 @@ title: "Research Interest"
     *	Introduction to Python (datacamp). <br>
     * Intermediate Python (datacamp). <br>
     * Neural Networks and Deep Learning by deeplearning.ai (Coursera). <br>
-    *	Improving Deep Neural Networks: Hyper parameter Tuning, Regularization and Optimization by deeplearning.ai (Coursera).<br>
+    *	Improving Deep Neural Networks: Hyper parameter Tuning, Regularization and Optimization by deeplearning.ai <br>
+     &nbsp; &nbsp;(Coursera).<br>
     * Fight Against COVID-19 Pandemic Using Machine Learning 2020 by IEEE CS BDC.
   </p>
   </div>
