@@ -1,4 +1,4 @@
 ---
-layout: publications
+layout: default
 title: "Ananna Biswas"
 ---
