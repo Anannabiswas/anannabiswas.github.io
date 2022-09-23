@@ -11,7 +11,7 @@ title: "Ananna Biswas"
     <p><b>Computational Neuroscience:</b> Dynamical Systems, Stochastic Process, Dimensionality Reduction </p>
     <p><b> Signal Processing:</b> EEG, ECG, PCA, ICA, FFT, WPT</p>
     <p><b>Neural Engineering:</b> Neural Imaging, Neural Networks, Brain-Computer Interface (BCI) </p>
-    <p><b>Computer Vision:</b> Biomedical image processing </p>
+    <p><b>Computer Vision:</b> Biomedical Image processing </p>
 
   </div>
    <p><b>Related Course:</b> <br>
