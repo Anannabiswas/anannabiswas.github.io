@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ananna Biswas"
+title: "Ananna Biswas | Skills "
 ---
 
   <div class="row g-5 mb-3">
