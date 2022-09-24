@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ananna Biswas"
+title: "Ananna Biswas | Projects"
 ---
 
 <div class="row gx-5 mb-5">
