@@ -11,8 +11,8 @@ title: "Ananna Biswas | About"
  As a part of my skill development, I participated in the <a href = "https://compneuro.neuromatch.io/tutorials/intro.html">NMA Summer School of Computational
  Neuroscience</a> course this year and completed the project <a href = "https://anannabiswas.github.io/projects"> (Activity in mouse visual cortex predicts spontaneous
  running behaviour)</a> successfully. Additionally, our abstract <a href = "https://conference.neuromatch.io/abstract?edition=2022-5&submission_id=recZnWRlYhS39CEJW">
- (Exploring the different functions of excitatory and inhibitory cells in visual cortex of mouse) </a> has been accepted as a flash talk in <a href=                        "https://conference.neuromatch.io/"> neuromatch conference 2022</a>. In this year, I also attended <a href = "https://www.gtec.at/spring-school-2022/"> BCI & 
- Neurotechnology Spring School 2022 </a>, organized by g.tec medical engineering GmbH.
+ (Exploring the different functions of excitatory and inhibitory cells in visual cortex of mouse) </a> has been accepted as a flash talk in <a href=                        "https://conference.neuromatch.io/"> neuromatch conference 2022</a>. In this year, I also attended <a href = "https://www.gtec.at/spring-school-2022/"> BCI & Neurotech-
+ nology Spring School 2022 </a>, organized by g.tec medical engineering GmbH.
  
  Before attending these summer schools, I worked as a Research Engineer in the AimsLab, at United International University <a href = "https://www.uiu.ac.bd/">(UIU)</a>,
  Dhaka. I predicted consumers' preference, their purchase intention, and attention for specific marketing stimuli through machine learning models using EEG signals and 
