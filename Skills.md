@@ -8,9 +8,8 @@ title: "Ananna Biswas | Skills "
     <h4 class="fw-bold border-bottom pb-3 mb-5">Technical Skills</h4>
     <P><b>Statistics:</b> Descriptive Analysis, Inferential Analysis </p>
     <p><b> Machine Learning:</b> Supervised Learning, Semi-supervised Learning, Unsupervised learning, Reinforcement Learning, SVM,CNN, RNN, GRU, LSTM </p>
-    <p><b>Computational Neuroscience:</b> Dynamical Systems, Stochastic Process, Dimensionality Reduction </p>
-    <p><b> Signal Processing:</b> EEG, ECG, PCA, ICA, FFT, WPT</p>
-    <p><b>Neural Engineering:</b> Neural Imaging, Neural Networks, Brain-Computer Interface (BCI) </p>
+    <p><b>Biomedical Signal Processing:</b> EEG, ECG, PCA, ICA, FFT, WPT</p>
+    <p><b>Neural Engineering:</b> Brain-Computer Interface (BCI) </p>
     <p><b>Computer Vision:</b> Biomedical Image processing </p>
 
   </div>
