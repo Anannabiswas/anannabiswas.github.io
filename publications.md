@@ -1,4 +1,4 @@
 ---
 layout: publications
-title: "Ananna Biswas"
+title: "Ananna Biswas | Publications"
 ---
