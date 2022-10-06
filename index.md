@@ -10,8 +10,8 @@ title: "Ananna Biswas | About"
 
  As a part of my skill development, I participated in the <a href = "https://compneuro.neuromatch.io/tutorials/intro.html" target="_blank">NMA Summer School of 
  Computational Neuroscience</a> course this year and completed the project <a href = "https://anannabiswas.github.io/projects" target="_blank"> (Activity in Mouse Visual
- Cortex Predicts Spontaneous Running Behaviour)</a> successfully. Additionally, our abstract <a href = "https://conference.neuromatch.io/abstract?edition=2022- 
- 5&submission_id=recZnWRlYhS39CEJW" target="_blank"> (Exploring the Mouse Visual Cortex) </a> has been accepted as a flash talk in <a href= 
+ Cortex Predicts Spontaneous Running Behaviour)</a> successfully. Additionally, our abstract <a href =                                                                "https://www.reddit.com/r/neuromatch/comments/xo3w0x/ananna_biswas_exploring_the_mouse_visual_cortex/" target="_blank"> (Exploring the Mouse Visual Cortex) </a> has been
+ accepted as a < a href = "https://www.world-wide.org/neuromatch-5.0/exploring-mouse-visual-cortex-64b9e2db/nmc-video.mp4" target= "blank">flash talk</a> in <a href= 
  "https://conference.neuromatch.io/"> neuromatch conference 2022</a>. In this year, I also attended <a href ="https://www.gtec.at/spring-school-2022/" target="_blank"> 
  BCI & Neurotechnology Spring School 2022 </a>, organized by g.tec medical engineering GmbH.
  
