@@ -21,7 +21,7 @@ title: "Ananna Biswas | About"
  Neuromarketing Research in Developing Countries </a> which was published in <a href= "https://dl.acm.org/doi/abs/10.1145/3542954.3542977" target="_blank">
  ACM</a>. Prior to this, I hold a position as a Research Assistant in an AI-based software company, named Brainekt where I conducted research on breast-cancer image 
  classification, ECG signal analysis, and monitoring wheelchair patients using EEG signals and published two conference paper, namely <a href ="/assets/paper/eict.pdf"
- target="_blank">Invasive Ductal Carcinoma Detection by A Gated Recurrent Unit Network with Self Attention.</a>, and <a href ="/assets/paper/iccit.pdf"
+ target="_blank">Invasive Ductal Carcinoma Detection by A Gated Recurrent Unit Network with Self Attention</a>, and <a href ="/assets/paper/iccit.pdf"
  target="_blank">Classification of ECG signals by dot Residual LSTM Network with Data Augmentation for Anomaly Detection</a>. 
      
  
