@@ -5,7 +5,7 @@ title: "Ananna Biswas | Skills "
 
   <div class="row g-5 mb-3">
    <div class="col-md-12">
-    <h4 class="fw-bold border-bottom pb-5 mb-5">Technical Skills</h4>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">Technical Skills</h4>
     <P><b>Statistics:</b> Descriptive Analysis, Inferential Analysis </p>
     <p><b> Machine Learning:</b> Supervised Learning, Semi-supervised Learning, Unsupervised learning, Reinforcement Learning, SVM,CNN, RNN, GRU, LSTM </p>
     <p><b>Biomedical Signal Processing:</b> EEG, ECG, PCA, ICA, FFT, WPT</p>
