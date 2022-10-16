@@ -3,7 +3,7 @@ layout: default
 title: "Ananna Biswas | Skills "
 ---
 
-  <div class="row g-5 mb-3">
+  <div class="row g-5 mb-5">
    <div class="col-md-12">
     <h4 class="fw-bold border-bottom pb-3 mb-5">Technical Skills</h4>
     <P><b>Statistics:</b> Descriptive Analysis, Inferential Analysis </p>
@@ -28,6 +28,7 @@ title: "Ananna Biswas | Skills "
     *	<a href = "https://www.coursera.org/account/accomplishments/certificate/MSRJSYV8CDDA">Improving Deep Neural Networks: Hyper parameter Tuning, Regularization and
       Optimization</a> by deeplearning.ai (Coursera).<br>
     * Fight Against COVID-19 Pandemic Using Machine Learning 2020 by IEEE CS BDC.<br>
+    * <a href="https://www.coursera.org/account/accomplishments/certificate/UC69Z28FSTUK"> Git for Developers Using GitHub </a> by Coursera Project Network (Coursera).
     * <a href= "https://www.coursera.org/account/accomplishments/certificate/C7N82Z5JRBJJ"> Speak English Professionally: In Person, Online & On the Phone </a>by
       Georgia Institute of Technology.
   </p>
