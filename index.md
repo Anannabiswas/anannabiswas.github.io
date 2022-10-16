@@ -5,7 +5,7 @@ title: "Ananna Biswas | About"
 ---
 
  Hello, I am Ananna, received a B.Sc. degree in Electronics and Communication Engineering (ECE) from Khulna University of Engineering and Technology (KUET), Khulna,
- Bangladesh in 2019. At present, I am looking for a Ph.D. opportunity in the following research domain: computational neuroscience, signal processing, BCI, machine
+ Bangladesh in 2019. At present, I am looking for a Ph.D. opportunity in the following research domain: signal processing, computational neuroscience, BCI, machine
  learning, deep learning and computer vision.
 
  As a part of my skill development, I participated in the <a href = "https://compneuro.neuromatch.io/tutorials/intro.html" target="_blank">NMA Summer School of 
