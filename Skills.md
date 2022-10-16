@@ -13,7 +13,11 @@ title: "Ananna Biswas | Skills "
     <p><b>Computer Vision:</b> Biomedical Image processing </p>
 
   </div>
-   <p><b>Courses and Certifications</b> <br>
+  </div>
+  <div class="row g-5 mb-3">
+   <div class="col-md-12">
+   <h4 class="fw-bold border-bottom pb-3 mb-5">Courses and Certifications</h4>
+   <p>
     * <a href= "https://portal.neuromatchacademy.org/certificate/e809b048-67e3-437e-9afa-aa23664965f1">NMA Computational Neuroscience Course 2022</a>by neuromatch 
       academy. <br>
     * <a href= "/assets/certificate/gtec.pdf"> BCI & Neurotechnology Spring School 2022</a>by g.tec medical engineering GmbH.<br>
@@ -23,10 +27,11 @@ title: "Ananna Biswas | Skills "
     * <a href = "https://www.coursera.org/account/accomplishments/certificate/KV4S79KAM6TQ">Neural Networks and Deep Learning</a> by deeplearning.ai (Coursera). <br>
     *	<a href = "https://www.coursera.org/account/accomplishments/certificate/MSRJSYV8CDDA">Improving Deep Neural Networks: Hyper parameter Tuning, Regularization and
       Optimization</a> by deeplearning.ai (Coursera).<br>
-    * Fight Against COVID-19 Pandemic Using Machine Learning 2020 by IEEE CS BDC.
-    * <a href= "https://www.coursera.org/account/accomplishments/certificate/C7N82Z5JRBJJ"> Speak English Professionally: In Person, Online & On the Phone </a>by Georgia
-      Institute of Technology
+    * Fight Against COVID-19 Pandemic Using Machine Learning 2020 by IEEE CS BDC.<br>
+    * <a href= "https://www.coursera.org/account/accomplishments/certificate/C7N82Z5JRBJJ"> Speak English Professionally: In Person, Online & On the Phone </a>by
+      Georgia Institute of Technology.
   </p>
+  </div>
   </div>
   
  
