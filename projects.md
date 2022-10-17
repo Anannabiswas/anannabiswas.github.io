@@ -51,7 +51,7 @@ title: "Ananna Biswas | Projects"
 <div class="row justify-content-md-center">
    
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: MarketBrain</h3>
-           <h5> A Neuromarketing System for Advanced Marketinf Research </h5>
+           <h5> A Neuromarketing System for Advanced Marketing Research </h5>
    
         <p>  
            <b>Goal: </b> Our objective was to predict and analyze consumer cognitive and emotional response to the marketing stimuli through a Brain Computer Interface 
