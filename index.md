@@ -17,7 +17,7 @@ title: "Ananna Biswas | About"
  
  Before attending these summer schools, I worked as a Research Engineer in the AimsLab, at United International University <a href = "https://www.uiu.ac.bd/">(UIU)</a>,
  Dhaka. I predicted consumers' preference, their purchase intention, and attention for specific marketing stimuli through machine learning models using EEG signals and 
- Eye-tracker. My study on neuromarketing led to an conference paper, <a href = "https://anannabiswas.github.io/assets/paper/icca.pdf" target="_blank"> An Overview of
+ Eye-tracker. My study on neuromarketing led to a conference paper, <a href = "https://anannabiswas.github.io/assets/paper/icca.pdf" target="_blank"> An Overview of
  Neuromarketing Research in Developing Countries </a> which was published in <a href= "https://dl.acm.org/doi/abs/10.1145/3542954.3542977" target="_blank">
  ACM</a>. Prior to this, I hold a position as a Research Assistant in an AI-based software company, named Brainekt where I conducted research on breast-cancer image 
  classification, ECG signal analysis, and monitoring wheelchair patients using EEG signals and published two conference paper, namely <a href ="/assets/paper/eict.pdf"
