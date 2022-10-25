@@ -39,8 +39,8 @@ title: "Ananna Biswas | Projects"
          that there is higher correlation between 6th layer and running behavior. 
       </p>
       <p>
-         Mentors: Dr Mari Sosa, Dr Kiah Hardcastle, Rei Masuda, Deepika Gupta  <br>
-         Team Members:Cristian Lazo Quispe, <b>Ananna Biswas </b> , Bhavika Gopalini, Rouhong Wang, Asutosh Routa, Abraham George, Jongwon Yun
+         Mentors: Dr. Mari Sosa, Dr. Kiah Hardcastle, Rei Masuda, Deepika Gupta  <br>
+         Team Members: Cristian Lazo Quispe, <b>Ananna Biswas </b> , Bhavika Gopalini, Rouhong Wang, Asutosh Routa, Abraham George, Jongwon Yun
       </p> 
     </div>
    
@@ -51,10 +51,10 @@ title: "Ananna Biswas | Projects"
 <div class="row justify-content-md-center">
    
    <h3 class="fw-bold border-bottom pb-3 mb-5">Project: MarketBrain</h3>
-           <h5> A Neuromarketing System for Advanced Marketinf Research </h5>
+           <h5> A Neuromarketing System for Advanced Marketing Research </h5>
    
         <p>  
-           <b>Aim: </b> Our objective was to predict and analyze consumer cognitive and emotional response to the marketing stimuli through a Brain Computer Interface 
+           <b>Goal: </b> Our objective was to predict and analyze consumer cognitive and emotional response to the marketing stimuli through a Brain Computer Interface 
            (BCI) based marketing research method using Electroencephalography (EEG) signals and eye tracking data signals. 
         </p>   
    
@@ -81,7 +81,7 @@ title: "Ananna Biswas | Projects"
          RFE) along with correlation bias reduction (CBR) has been used. In the last phase, we used LIBSVM to classify the customer’s choice. For selecting the
          appropriate classification model, the labels given by the participants have been taken as ground truth.
       <p>
-         Supervisor:Khondaker A. Mamun, Khandoker Mahmudur Rahman, Mohammad Tohidul Islam Miya<br>
+         Supervisor: Dr. Khondaker A. Mamun, Dr. Khandoker Mahmudur Rahman, Dr. Mohammad Tohidul Islam Miya<br>
          Team Members: <b>Ananna Biswas </b>, Fazla Rabbi Mashrur
       </p> 
     
