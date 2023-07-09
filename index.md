@@ -1,12 +1,11 @@
----
+![image](https://github.com/Anannabiswas/anannabiswas.github.io/assets/54266261/7009e50c-48af-4b3b-b01e-2e1b26cfff39)---
 layout: home
 title: "Ananna Biswas | About"
 
 ---
 
- Hello, I am Ananna, received a B.Sc. degree in Electronics and Communication Engineering (ECE) from Khulna University of Engineering and Technology (KUET), Khulna,
- Bangladesh in 2019. At present, I am looking for a Ph.D. opportunity in the following research domain: machine learning, deep learning, signal processing, computational
- neuroscience, BCI, HCI, robotics and computer vision.
+ Hello, I am Ananna, going to start my Ph.D. journey in Computer Engineering at Michigan Technological University this fall, 2023. I will join < a href ="https://sites.google.com/mtu.edu/hongyu/brain-inspired-ai-lab?authuser=0&pli=1" target="_blank">Brain-Inspired AI Lab </a>as a Research Assistant, where I will work on a neuromorphic deep brain simulation project under the supervision of < a href = "https://sites.google.com/mtu.edu/hongyu/group" target="_blank">Dr. Hongyu An </a>. I received
+ a B.Sc. degree in Electronics and Communication Engineering (ECE) from Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh in 2019. 
 
  As a part of my skill development, I participated in the <a href = "https://compneuro.neuromatch.io/tutorials/intro.html" target="_blank">NMA Summer School of 
  Computational Neuroscience</a> course in 2022 and completed the project <a href = "https://anannabiswas.github.io/projects" target="_blank"> (Activity in Mouse Visual
