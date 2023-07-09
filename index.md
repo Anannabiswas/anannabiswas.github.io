@@ -1,4 +1,4 @@
-![image](https://github.com/Anannabiswas/anannabiswas.github.io/assets/54266261/7009e50c-48af-4b3b-b01e-2e1b26cfff39)---
+---
 layout: home
 title: "Ananna Biswas | About"
 
