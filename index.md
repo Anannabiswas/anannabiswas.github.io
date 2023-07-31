@@ -4,8 +4,7 @@ title: "Ananna Biswas | About"
 
 ---
 
- Hello, I am Ananna, going to start my Ph.D. journey in Computer Engineering at Michigan Technological University this fall, 2023. I will join <a href ="https://sites.google.com/mtu.edu/hongyu/brain-inspired-
- ai-lab" target="_blank">Brain-Inspired AI Lab</a> as a Research Assistant, where I will work on a neuromorphic deep brain simulation project under the supervision of <a href = 
+ Hello, I am Ananna, going to start my Ph.D. journey in Computer Engineering at Michigan Technological University this fall, 2023. I will join <a href ="https://sites.google.com/mtu.edu/hongyu/home" target="_blank">Brain-Inspired AI Lab</a> as a Research Assistant, where I will work on a neuromorphic deep brain simulation project under the supervision of <a href = 
  "https://sites.google.com/mtu.edu/hongyu/home" target="_blank"> Dr. Hongyu An </a>. I received my B.Sc. degree in Electronics and Communication Engineering (ECE) from Khulna University of Engineering and 
  Technology (KUET), Khulna, Bangladesh in 2019. 
 
