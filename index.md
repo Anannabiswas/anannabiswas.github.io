@@ -4,7 +4,7 @@ title: "Ananna Biswas | About"
 
 ---
 
- Hello, I am Ananna. a Ph.D. student in Computer Engineering at Michigan Technological University. I am working in the
+ Hello, I am Ananna, a Ph.D. student in Computer Engineering at Michigan Technological University. I am working in the
  <a href ="https://sites.google.com/mtu.edu/hongyu/home" target="_blank"> Brain-Inspired AI Lab</a> as a Research Assistant under the supervision of 
  <a href = "https://sites.google.com/mtu.edu/hongyu/group" target="_blank">Dr. Hongyu An </a>. My current project is on neuromorphic deep brain stimulation system. I received my B.Sc. degree in Electronics and Communication Engineering (ECE) from Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh in 2019. 
 
