@@ -4,7 +4,7 @@ title: "Ananna Biswas | About"
 
 ---
 
- Hello, I am Ananna, a Visiting Ph.D. student at the University of Southern California (USC) under a NSF AccelNet NeuroPAC Fellowship for the project titled “Microelectrode Array Implantation and Neural Signal Acquisition for Neuromorphic Closed-loop Neural Prostheses" in fall 2024. I am pursuing my Ph.D. studies in Computer Engineering at Michigan Technological University where I work as a Graduate  Research Assistant on neuromorphic deep brain stimulation project for perkinson's diseases. I received my B.Sc. degree in Electronics and Communication Engineering (ECE) from Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh in 2019. 
+ Hello, I am Ananna, a visiting Ph.D. student at the University of Southern California (USC) under a NSF AccelNet NeuroPAC Fellowship for the project titled “Microelectrode Array Implantation and Neural Signal Acquisition for Neuromorphic Closed-loop Neural Prostheses" in fall 2024. I am pursuing my Ph.D. studies in Computer Engineering at Michigan Technological University where I work as a Graduate  Research Assistant on neuromorphic deep brain stimulation project for parkinson's diseases. I received my B.Sc. degree in Electronics and Communication Engineering (ECE) from Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh in 2019. 
 
  As a part of my skill development, I participated in the <a href = "https://compneuro.neuromatch.io/tutorials/intro.html" target="_blank">NMA Summer School of 
  Computational Neuroscience</a> course in 2022 and completed the project <a href = "https://anannabiswas.github.io/projects" target="_blank"> (Activity in Mouse Visual
